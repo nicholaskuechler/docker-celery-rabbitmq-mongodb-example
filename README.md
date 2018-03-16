@@ -3,5 +3,7 @@ Docker + Celery + RabbitMQ + MongoDB Example
 
 Usage:
 
-   docker-compose build
-   docker-compose up
+```
+docker-compose build
+docker-compose up
+```
